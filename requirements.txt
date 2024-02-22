@@ -1,0 +1,10 @@
+bottle
+doc8
+gj
+pylint
+pytest
+rstcheck
+sphinx
+tox
+twine
+wheel
